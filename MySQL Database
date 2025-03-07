@@ -1,0 +1,6 @@
+Database Name: user_auth
+✔ Table: users
+• id (INT, PRIMARY KEY, AUTO_INCREMENT)
+• username (VARCHAR, UNIQUE)
+• email (VARCHAR, UNIQUE)
+• password (VARCHAR
